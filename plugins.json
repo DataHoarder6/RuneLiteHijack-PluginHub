@@ -1,8 +1,8 @@
 [
   {
     "internalName": "Thiever",
-    "hash": "808985e5ccaed05781a9b1a2ad27be8c245f77d57e0a520abfe88fac5a705e33",
-    "size": 12573,
+    "hash": "28dd60158fcb91a4607e19f467ebc633918445970ffeb1ef869bb910c2903774",
+    "size": 15302,
     "plugins": [
       "org.thiever.ThieverPlugin"
     ],
