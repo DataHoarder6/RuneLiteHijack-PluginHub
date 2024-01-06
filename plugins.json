@@ -9,5 +9,16 @@
     "displayName": "HiJack Customize PluginHub",
     "description": "",
     "provider": "arnah"
+  },
+  {
+    "internalName": "hijack-customize-pluginhub",
+    "hash": "3766da416c1fc4b7994bba890179c39bccd1643c7371c84962767382a0f6b40d",
+    "size": 2307,
+    "plugins": [
+      "org.thiever.ExamplePlugin"
+    ],
+    "displayName": "Example apk",
+    "description": "",
+    "provider": "arnah"
   }
 ]
