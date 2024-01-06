@@ -1,12 +1,12 @@
 [
   {
-    "internalName": "ExampleThiever",
+    "internalName": "Example",
     "hash": "0bbee32fdf79563906f6e475701a729e25e80bf62da5ea9e94ebdfceccac6043",
     "size": 2307,
     "plugins": [
       "org.thiever.ExamplePlugin"
     ],
-    "displayName": "Example apk",
+    "displayName": "Example",
     "description": "",
     "provider": "thiever"
   }
