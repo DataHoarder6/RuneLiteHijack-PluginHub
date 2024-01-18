@@ -23,7 +23,7 @@
   },
   {
     "internalName": "thieverbot",
-    "hash": "c948450f368bd27a10a3766e1d27feba793a7491930e112fcddfed03bb771b5d",
+    "hash": "2dff090bcbcbd8069b76273fba98b2d3027998b5ebbab1862ee0aea6d6010000",
     "size": 15082,
     "plugins": [
       "com.thieverbot.ThieverBotPlugin"
