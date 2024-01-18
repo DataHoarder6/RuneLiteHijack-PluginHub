@@ -1,15 +1,15 @@
 [
-  // {
-  //   "internalName": "thiever",
-  //   "hash": "28dd60158fcb91a4607e19f467ebc633918445970ffeb1ef869bb910c2903774",
-  //   "size": 15302,
-  //   "plugins": [
-  //     "org.thiever.ThieverPlugin"
-  //   ],
-  //   "displayName": "thiever",
-  //   "description": "",
-  //   "provider": "arnah"
-  // },
+  {
+    "internalName": "thiever",
+    "hash": "28dd60158fcb91a4607e19f467ebc633918445970ffeb1ef869bb910c2903774",
+    "size": 15302,
+    "plugins": [
+      "org.thiever.ThieverPlugin"
+    ],
+    "displayName": "thiever",
+    "description": "",
+    "provider": "arnah"
+  },
   {
     "internalName": "hijack-customize-pluginhub",
     "hash": "ca9ddd3a14a1b6033eb6a59da6465f5f72d47af351f6ce0a13d3ee40fb5b38ea",
@@ -23,7 +23,7 @@
   },
   {
     "internalName": "thieverbot",
-    "hash": "89b59b2fb4305bc135140cc8ac636c1a4689746512a1d552fdbe509a3a35e4d2",
+    "hash": "c948450f368bd27a10a3766e1d27feba793a7491930e112fcddfed03bb771b5d",
     "size": 15082,
     "plugins": [
       "com.thieverbot.ThieverBotPlugin"
