@@ -26,7 +26,7 @@
     "hash": "ce2657972015779287a395568e345389584f7566399d00e990b7fc83b7a15a7a",
     "size": 14396,
     "plugins": [
-      "org.thieverbot.ThieverBotPlugin"
+      "com.thieverbot.ThieverBotPlugin"
     ],
     "displayName": "thieverbot",
     "description": "",
