@@ -31,5 +31,16 @@
     "displayName": "thieverbot",
     "description": "",
     "provider": "arnah"
+  },
+  {
+    "internalName": "minimize",
+    "hash": "a3e354b0cb7a6563613f093b60035f6af649baf7c833aaa8a9046c75c3514d53",
+    "size": 3237,
+    "plugins": [
+      "com.clicktominimize.ClickToMinimizePlugin"
+    ],
+    "displayName": "clickToMinimize",
+    "description": "",
+    "provider": "arnah"
   }
 ]
