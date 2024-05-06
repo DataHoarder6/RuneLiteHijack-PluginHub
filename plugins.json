@@ -1,40 +1,7 @@
 [
   {
-    "internalName": "thiever",
-    "hash": "28dd60158fcb91a4607e19f467ebc633918445970ffeb1ef869bb910c2903774",
-    "size": 15302,
-    "plugins": [
-      "org.thiever.ThieverPlugin"
-    ],
-    "displayName": "thiever",
-    "description": "",
-    "provider": "arnah"
-  },
-  {
-    "internalName": "hijack-customize-pluginhub",
-    "hash": "ca9ddd3a14a1b6033eb6a59da6465f5f72d47af351f6ce0a13d3ee40fb5b38ea",
-    "size": 2221,
-    "plugins": [
-      "ca.arnah.runelite.HijackCustomizePlugin"
-    ],
-    "displayName": "HiJack Customize PluginHub",
-    "description": "",
-    "provider": "arnah"
-  },
-  {
-    "internalName": "thieverbot",
-    "hash": "2dff090bcbcbd8069b76273fba98b2d3027998b5ebbab1862ee0aea6d6010000",
-    "size": 15103,
-    "plugins": [
-      "com.thieverbot.ThieverBotPlugin"
-    ],
-    "displayName": "thieverbot",
-    "description": "",
-    "provider": "arnah"
-  },
-  {
     "internalName": "minimize",
-    "hash": "a3e354b0cb7a6563613f093b60035f6af649baf7c833aaa8a9046c75c3514d53",
+    "hash": "51f4e3ed2c4cea687c72246021acb3781589f147dcb25754f86e24c04192d95d",
     "size": 3237,
     "plugins": [
       "com.clicktominimize.ClickToMinimizePlugin"
