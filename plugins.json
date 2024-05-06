@@ -1,7 +1,7 @@
 [
   {
-    "internalName": "minimize",
-    "hash": "51f4e3ed2c4cea687c72246021acb3781589f147dcb25754f86e24c04192d95d",
+    "internalName": "example-1.0-SNAPSHOT",
+    "hash": "ae3b0523cd1b8cea3dc566bb895cfdde5c44516e1e6288310aa0ad18902c4a45",
     "size": 3237,
     "plugins": [
       "com.clicktominimize.ClickToMinimizePlugin"
